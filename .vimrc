@@ -26,7 +26,6 @@ set wildmode=list:longest,full
 " disable beeping
 set vb t_vb=
 
-
 "searching
 set nohls
 set incsearch
@@ -47,6 +46,7 @@ set tabstop=2
 set shiftwidth=2
 set expandtab
 set nowrap
+nnoremap ; :
 let mapleader = ","
 
 set backupdir=~/.vim/swp/backup
