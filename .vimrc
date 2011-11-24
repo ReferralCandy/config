@@ -13,6 +13,10 @@ map <C-j> <C-w>j
 map <C-k> <C-w>k
 map <C-l> <C-w>l
 
+" disable increment and decrement
+map <C-a> <nop>
+map <C-x> <nop>
+
 " disable arrow keys
 map <up> <nop>
 map <down> <nop>
