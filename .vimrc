@@ -36,6 +36,9 @@ set incsearch
 set ignorecase
 set smartcase
 
+" status bar coloring
+highlight StatusLine ctermfg=119 ctermbg=0
+
 set nocompatible
 syntax on
 filetype plugin indent on
