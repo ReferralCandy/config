@@ -3,7 +3,6 @@ map:W :w
 map:WQ :wq
 map:wQ :wq
 map:Q :q
-imap ii <Esc>
 map L $
 map H ^
 map T gt
